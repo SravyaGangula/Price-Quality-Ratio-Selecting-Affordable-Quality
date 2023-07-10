@@ -1,5 +1,5 @@
 # Price-Quality-Ratio-Selecting-Affordable-Quality
-Repo for Price-Quality Ratio: Selecting Affordable Quality  Data Analysis Project
+Repo for Price-Quality Ratio: Selecting Affordable Quality  Data Analysis Project.
 
 
 Project Description:
@@ -12,3 +12,10 @@ Steps Performed in the project.
 2.Data Collection
 3.Data Cleaning
 4.Data Exploration & Analysis and Visualization.
+
+
+
+
+
+
+Data Source: @Kaggle.
